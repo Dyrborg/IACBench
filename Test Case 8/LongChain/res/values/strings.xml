@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LongChain</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_long_chain_second">LongChainSecondActivity</string>
+    <string name="title_activity_long_chain_third">LongChainThirdActivity</string>
+
+</resources>
